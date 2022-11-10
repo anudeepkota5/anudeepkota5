@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudeepkota5&label=Profile%20views&color=0e75b6&style=flat" alt="anudeepkota5" /> </p>
 
-- 💬 Ask me about **Java, Selenium, Python**
+- 💬 Ask me about **Java, Selenium, Python, Cypress, SpringBoot, Javascript**
 
 - 📫 How to reach me **anudeepkota5@gmail.com**
 
